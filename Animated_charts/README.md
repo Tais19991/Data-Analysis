@@ -1,3 +1,3 @@
 ### HDI chart
 
-<img src="animated_bar_chart3.gif" alt="Alternate text" width="200"/>
+<img src="animated_bar_chart3.gif" alt="Alternate text" width="700"/>
