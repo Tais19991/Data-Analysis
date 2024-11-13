@@ -1,4 +1,4 @@
-## Space Missions Data Analysis
+## Space Missions EDA
 ### Overview
 This dataset, sourced from nextspaceflight.com, encompasses space missions from the beginning of the Space Race in 1957. The analysis provides insights into various aspects of these missions, including the frequency of launches, mission statuses, financial expenditures, and more.
 
