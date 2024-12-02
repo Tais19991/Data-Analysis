@@ -9,6 +9,7 @@ This project applies advanced clustering techniques to segment bank clients base
 - Clustering: Utilizes K-means Clustering and Dimensionality Reduction (PCA and Autoencoders) to group clients into meaningful segments.
 - Insights: Detailed cluster analysis reveals distinct spending patterns, enabling actionable marketing strategies.
 
+
 ### Methodology
 
 1.Data Preprocessing:
@@ -43,6 +44,10 @@ This project applies advanced clustering techniques to segment bank clients base
 - Cluster 3: High spenders with high credit and balances (Luxury Seekers)
  
 **Dominant Group:** Cluster 1 accounts for ~70% of clients, indicating potential for retention strategies targeting low-spend segments.
+
+[Cluster Visualization]([https://github.com/Tais19991/Data-Analysis/edit/main/Bank_Clients_Clustering/assets/Bank_clients_data.gif])
+
+
 
 
 ### Recommendations
