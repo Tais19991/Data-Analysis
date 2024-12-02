@@ -45,7 +45,7 @@ This project applies advanced clustering techniques to segment bank clients base
  
 **Dominant Group:** Cluster 1 accounts for ~70% of clients, indicating potential for retention strategies targeting low-spend segments.
 
-<img src="/assets/Bank_clients_data.gif" alt="Alternate text" width="500"/>
+<img src="assets/Bank_clients_data.gif" alt="Alternate text" width="700"/>
 
 
 
