@@ -7,4 +7,4 @@
 
 
 ### Bank Clients Clusters chart
-<img src="../Bank_Clients_Clustering/assets/Bank_clients_data.gif" alt="Alternate text" width="700"/>
+<img src="gifs/Bank_clients_data.gif" alt="Alternate text" width="700"/>
