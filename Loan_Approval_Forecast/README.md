@@ -36,7 +36,7 @@ The logistic regression model for loan approval performs well, showing strong pr
 with minimal overfitting. While the false positive and false negative counts are relatively low, depending on the business context 
 (e.g., the cost of a wrongly approved loan), additional steps like adjusting decision thresholds or adding more informative features could be considered to reduce errors further
 
-<img src="..Animated_Charts/gifs/logistic_regression_loan.gif" alt="Alternate text" width="700"/>
+<img src="../Animated_charts/gifs/logistic_regression_loan.gif" alt="Logistic Regression Loan Prediction Animation" width="800"/>
 
 #### By examining this equation, we gain valuable insights into the factors affecting loan approval:
 
