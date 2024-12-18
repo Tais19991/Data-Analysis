@@ -85,7 +85,7 @@ class loan_model():
         self.data = self.scaler.transform(df)
 
     def predicted_probability(self):
-        if (self.data is not None):
+        if self.data is not None:
             pred = self.reg.predict_proba(self.data)[:, 1]
             return pred
 
@@ -100,3 +100,5 @@ class loan_model():
             self.preprocessed_data['Probability'] = self.reg.predict_proba(self.data)[:, 1]
             self.preprocessed_data['Prediction'] = self.reg.predict(self.data)
             return self.preprocessed_data
+
+
