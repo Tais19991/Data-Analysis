@@ -42,19 +42,19 @@ For step-by-step interactive data analysis.
 Clone this repository:
 `git clone https://github.com/yourusername/Sales_EDA_ANOVA_Prophet.git`
 
-Install required dependencies:
-`pip install -r requirements.txt`
-Open the notebooks in Jupyter:
-`jupyter notebook`
-Follow the analysis steps in each notebook.
+Install required dependencies:  
+`pip install -r requirements.txt`  
+Open the notebooks in Jupyter:  
+`jupyter notebook`  
+Follow the analysis steps in each notebook.  
 
 ### Results
-**Exploratory Data Analysis (EDA) Results**
-The dataset contains 1,017,209 entries spanning 3 years (2013–2015), detailing sales and customer performance across 1,115 stores. 
+**Exploratory Data Analysis (EDA) Results**  
+The dataset contains 1,017,209 entries spanning 3 years (2013–2015), detailing sales and customer performance across 1,115 stores.  
 
 **Key observations include:**  
-- Sales Patterns: Average daily sales were €6,955, with a range from €0 to €41,551. Variability was influenced by factors like promotions, holidays, and seasonality.
-- Customer Metrics: The daily average customer count was 762, ranging up to 7,388, with trends closely tied to sales performance.  
+- Sales Patterns: Average daily sales were €6,955, with a range from €0 to €41,551. Variability was influenced by factors like promotions, holidays, and seasonality.  
+- Customer Metrics: The daily average customer count was 762, ranging up to 7,388, with trends closely tied to sales performance.   
 - Promotions: Promotions were active in 44.6% of the records, significantly boosting sales during these periods.  
 - Holiday Influence: Sales varied during special holidays (e.g., Christmas) and school holidays, highlighting the impact of external events on purchasing behavior.  
 
@@ -75,8 +75,8 @@ Key results include:
 - Optimized Parameters: The model utilized linear growth, multiplicative seasonality, and weekly seasonality. A changepoint prior scale of ~0.039 was found to be optimal.  
 - Forecast Accuracy: The model effectively captured seasonal and weekly trends, making reliable sales forecasts for each store. However, extreme fluctuations (e.g., during holidays) presented slight challenges.  
 
-### Future Work
-- Enhance the dataset with additional features (e.g., economic indicators).   
+### Future Work  
+- Enhance the dataset with additional features (e.g., economic indicators).    
 - Explore advanced models for forecasting (e.g., ARIMA, LSTM).   
 
 ### License
