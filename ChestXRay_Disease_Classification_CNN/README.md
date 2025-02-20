@@ -1,1 +1,1 @@
-Project is under construction
+The project is under development
