@@ -44,6 +44,7 @@ The trained model achieves a competitive accuracy in detecting lung diseases, de
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
 
 
