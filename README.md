@@ -31,7 +31,10 @@ Exploratory Data Analysis (EDA), ANOVA tests, and time series forecasting using 
 
 9️⃣ [Space Race EDA](https://github.com/Tais19991/Data-Analysis/tree/main/Space_Race_EDA)   
 Description: Exploratory data analysis and visulisations of space race events, missions, and achievements.  
+
  
 More projects here: [Kaggle Profile](https://www.kaggle.com/tatianak1991)  
 
-Each project contains Jupyter Notebooks with code, visualizations, and insights. Feel free to explore, contribute, or provide feedback!  
+
+Each project contains Jupyter Notebooks with code, visualizations, and insights.  
+Feel free to explore, contribute, or provide feedback!  
