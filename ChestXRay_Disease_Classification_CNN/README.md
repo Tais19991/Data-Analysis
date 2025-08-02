@@ -13,7 +13,7 @@ The dataset consists of labeled chest X-ray images, categorized into different d
 - **Optimizer**: Adam optimizer for efficient training.
 
 ## Data Preprocessing
-- Image resizing and normalization.
+- Image resizing and normalization.git add ChestXRay_Disease_Classification_CNN/README.md
 - Data augmentation techniques to improve generalization.
 - Splitting into training, validation, and test sets.
 
@@ -23,7 +23,7 @@ The dataset consists of labeled chest X-ray images, categorized into different d
 - Confusion matrix and classification report provide insights into misclassifications.
 
 ## Results
-The trained model achieves a competitive accuracy in detecting lung diseases, demonstrating the effectiveness of CNNs in medical imaging applications.
+demonstrating the effectiveness of CNNs in medical imaging applications.
 
 ## Installation
 1. Clone the repository:
